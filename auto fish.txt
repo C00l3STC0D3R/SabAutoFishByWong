@@ -642,4 +642,4 @@ local function showNotification(text)
     NotifFrame:Destroy()
 end
 
-showNotification("🌙 Fisher Loaded!")
+showNotification("Auto fish Loaded!")
